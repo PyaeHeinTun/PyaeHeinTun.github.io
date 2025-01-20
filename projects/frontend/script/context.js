@@ -3,5 +3,5 @@ export function getBaseUrl() {
 }
 
 export function getFolderPathForUI() {
-    return "http://127.0.0.1:5500/frontend"
+    return "https://pyaeheintun.github.io/projects/frontend"
 }
